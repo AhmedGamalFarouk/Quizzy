@@ -65,6 +65,13 @@ The project follows a modular architecture:
 - Code organization
 - Null safety implementation
 
+## Screen
+![Screenshot_1747674234](https://github.com/user-attachments/assets/b85823b4-a1fd-4d40-92b8-92f0819539e3)
+![Screenshot_1747674255](https://github.com/user-attachments/assets/0e2afd1c-dc94-4220-bc46-795363d5f824)
+![Screenshot_1747674261](https://github.com/user-attachments/assets/6f9e6974-5311-4c1a-965a-f22411e8fae9)
+![Screenshot_1747674278](https://github.com/user-attachments/assets/362a0c97-aa44-4e47-84d3-d3cfb15d2f58)
+![Screenshot_1747674288](https://github.com/user-attachments/assets/2570cf62-4619-45ad-9ad3-e5cd0aff8b8f)
+
 ## Future Improvements
 
 - Add actual quiz questions and answers
